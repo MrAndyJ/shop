@@ -1,6 +1,4 @@
 this is first git
 
-git hello world	!
-
-2 git hello world
+1 hello git 
 
